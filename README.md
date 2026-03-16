@@ -1,12 +1,88 @@
-- 👋 Hi, I’m @marlonperez70
-- 👀 I’m interested in: - Inteligencia Artificial- Aprendizaje Automático- Procesamiento de Lenguaje Natural- Visión por Computadora  
-- 🌱 I’m currently learning: Redes Neuronales - Técnicas de Aprendizaje Profundo - Herramientas de IA como TensorFlow y PyTorch  
-- 💞️ I’m looking to collaborate on: Proyectos de IA - Investigación en Machine Learning - Desarrollo de aplicaciones inteligentes
-- 📫 How to reach me: https://www.linkedin.com/in/marlon-perez-06ab32303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
-- 😄 Pronouns: Ing Marlon Perez
-- ⚡ Fun fact: El futuro es hoy 
+# 👋 Hi, I'm Marlon David Pérez Almachi
+### Cybersecurity Engineer & AI Researcher | IT Systems Auditor
 
-<!---
-marlonperez70/marlonperez70 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-9th_Level_IT_Engineering-00E5FF?style=for-the-badge&logo=unemi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity_%26_AI-A855F7?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Ecuador-00FF88?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
+
+---
+
+### 🛡️ About Me
+Advanced IT Engineering student at **UNEMI** with over **10 years of experience** in critical information management and sensitive data analysis within the public sector. My passion lies at the intersection of **Artificial Intelligence** and **Cybersecurity**, specifically focusing on automated threat detection and IT auditing frameworks.
+
+- 🔭 **Current Focus:** Developing AI-driven models for real-time cybersecurity monitoring.
+- 🎓 **Academic Excellence:** Maintaining a high-distinction average (86.08/100).
+- 🔬 **Researcher:** Author of several scientific investigations on TIS Audit and AI deployment.
+- ⚡ **Mission:** Securing the digital future through intelligent automation.
+
+---
+
+### 🚀 Technical Stack
+
+<details open>
+<summary><b>🛡️ Cybersecurity & Auditing</b></summary>
+<br />
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/COBIT-00E5FF?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISO_27001-00FF88?style=flat-square&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-FF4500?style=flat-square&logo=metasploit&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>🤖 Artificial Intelligence & Data</b></summary>
+<br />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq_AI-A855F7?style=flat-square&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+</p>
+</details>
+
+<details>
+<summary><b>💻 Web & Systems</b></summary>
+<br />
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+</details>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marlonperez70&show_icons=true&theme=tokyonight&count_private=true" alt="Marlon's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonperez70&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+### 📬 Let's Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/ing-marlon-pérez-06ab32303">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://orcid.org/0009-0001-9166-7497">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@marlonperez-ing">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:malmachi@unemi.edu.ec">
+    <img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <i>"In code we trust, in security we thrive."</i>
+</p>
