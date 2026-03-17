@@ -15,13 +15,6 @@
 
 ---
 
----
-<p align="left">
-  <img src="https://img.shields.io/badge/Location-Cuenca--Ecuador-00FF88?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-9th_Level_IT_Engineering-00E5FF?style=for-the-badge&logo=googlescholar&logoColor=white" />
-</p>
-
-
 <p align="left">
   <img src="https://img.shields.io/badge/Status-9th_Level_IT_Engineering-00E5FF?style=for-the-badge&logo=googlescholar&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity_%26_AI-A855F7?style=for-the-badge&logo=fortinet&logoColor=white" />
