@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ing-MarlonPerez/ing-MarlonPerez/main/logo-marlon.png" alt="Ing. Marlon Pérez Logo" width="350" />
+  <img src="https://raw.githubusercontent.com/ing-MarlonPerez/ing-MarlonPerez/main/logo-marlon.png" alt="Ing. Marlon Pérez Logo" width="300" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Marlon David Pérez Almachi</h1>
