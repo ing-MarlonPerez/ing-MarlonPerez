@@ -97,7 +97,7 @@ Information technology engineering student at **UNEMI** with over **10 years of 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%C2%A9_2026-Marlon_David_P%C3%A9rez_Almachi-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/%C2%A9_2026-Ing._Marlon_P%C3%A9rez-black?style=flat-square" />
   <br>
-  <sub>Todos los derechos reservados • Ing. Marlon Pérez Information technology engineering student</sub>
+  <sub>Todos los derechos reservados • Information technology engineering student</sub>
 </p>
