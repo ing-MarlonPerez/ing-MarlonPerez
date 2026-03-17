@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Marlon David Pérez Almachi
-### Cybersecurity Engineer & AI Researcher | IT Systems Auditor
+
+### 🎓 Information Technology Engineering Student 
+### 🤖 AI Researcher | 🛡️ IT Systems Auditor
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-9th_Level_IT_Engineering-00E5FF?style=for-the-badge&logo=unemi&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity_%26_AI-A855F7?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Ecuador-00FF88?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Cuenca-Ecuador-00FF88?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
@@ -60,8 +62,8 @@ Advanced IT Engineering student at **UNEMI** with over **10 years of experience*
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marlonperez70&show_icons=true&theme=tokyonight&count_private=true" alt="Marlon's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonperez70&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ing-MarlonPerez&show_icons=true&theme=tokyonight&count_private=true" alt="Marlon's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ing-MarlonPerez&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
 </p>
 
 ---
