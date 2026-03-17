@@ -4,8 +4,8 @@
 ### 🤖 AI Researcher | 🛡️ IT Systems Auditor
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-9th_Level_IT_Engineering-00E5FF?style=for-the-badge&logo=unemi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity_%26_AI-A855F7?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-9th_Level_IT_Engineering-00E5FF?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity_%26_AI-A855F7?style=for-the-badge&logo=fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Cuenca--Ecuador-00FF88?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Available_for_Projects-blue?style=for-the-badge&logo=github&logoColor=white" />
 </p>
