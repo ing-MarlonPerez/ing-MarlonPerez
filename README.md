@@ -13,7 +13,7 @@
 ---
 
 ### 🛡️ About Me
-Advanced Information technology engineering at **UNEMI** with over **10 years of experience** in critical information management and sensitive data analysis within the public sector. My passion lies at the intersection of **Artificial Intelligence** and **Cybersecurity**, specifically focusing on automated threat detection and IT auditing frameworks.
+Information technology engineering student at **UNEMI** with over **10 years of experience** in critical information management and sensitive data analysis within the public sector. My passion lies at the intersection of **Artificial Intelligence** and **Cybersecurity**, specifically focusing on automated threat detection and IT auditing frameworks.
 
 - 🔭 **Current Focus:** Developing AI-driven models for real-time cybersecurity monitoring.
 - 🎓 **Academic Excellence:** Maintaining a high-distinction average.
@@ -94,4 +94,10 @@ Advanced Information technology engineering at **UNEMI** with over **10 years of
 ---
 <p align="center">
   <i>"In code we trust, in security we thrive."</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%C2%A9_2026-Marlon_David_P%C3%A9rez_Almachi-black?style=flat-square" />
+  <br>
+  <sub>Todos los derechos reservados • Ing. Marlon Pérez Information technology engineering student</sub>
 </p>
