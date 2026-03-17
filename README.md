@@ -13,10 +13,10 @@
 ---
 
 ### 🛡️ About Me
-Advanced IT Engineering student at **UNEMI** with over **10 years of experience** in critical information management and sensitive data analysis within the public sector. My passion lies at the intersection of **Artificial Intelligence** and **Cybersecurity**, specifically focusing on automated threat detection and IT auditing frameworks.
+Advanced Information technology engineering at **UNEMI** with over **10 years of experience** in critical information management and sensitive data analysis within the public sector. My passion lies at the intersection of **Artificial Intelligence** and **Cybersecurity**, specifically focusing on automated threat detection and IT auditing frameworks.
 
 - 🔭 **Current Focus:** Developing AI-driven models for real-time cybersecurity monitoring.
-- 🎓 **Academic Excellence:** Maintaining a high-distinction average (86.08/100).
+- 🎓 **Academic Excellence:** Maintaining a high-distinction average.
 - 🔬 **Investigador:** Actualmente desarrollando proyectos de investigación científica sobre Auditoría TIS y despliegue de IA.
 - ⚡ **Misión:** Asegurar el futuro digital mediante una automatización inteligente, ética y responsable.
 
@@ -71,8 +71,14 @@ Advanced IT Engineering student at **UNEMI** with over **10 years of experience*
 
 ### 📬 Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/ing-marlon-pérez-06ab32303">
+  <a href="https://ingmarlonperez.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ing-marlon-p%C3%A9rez-06ab32303">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/593986023149">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://orcid.org/0009-0001-9166-7497">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
