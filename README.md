@@ -17,8 +17,8 @@ Advanced IT Engineering student at **UNEMI** with over **10 years of experience*
 
 - 🔭 **Current Focus:** Developing AI-driven models for real-time cybersecurity monitoring.
 - 🎓 **Academic Excellence:** Maintaining a high-distinction average (86.08/100).
-- 🔬 **Researcher:** Author of several scientific investigations on TIS Audit and AI deployment.
-- ⚡ **Mission:** Securing the digital future through intelligent automation.
+- 🔬 **Investigador:** Actualmente desarrollando proyectos de investigación científica sobre Auditoría TIS y despliegue de IA.
+- ⚡ **Misión:** Asegurar el futuro digital mediante una automatización inteligente, ética y responsable.
 
 ---
 
