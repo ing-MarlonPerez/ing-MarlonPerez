@@ -1,7 +1,26 @@
-# 👋 Hi, I'm Marlon David Pérez Almachi
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ing-MarlonPerez/ing-MarlonPerez/main/logo-marlon.png" alt="Ing. Marlon Pérez Logo" width="350" />
+</p>
 
-### 🎓 Information Technology Engineering Student 
-### 🤖 AI Researcher | 🛡️ IT Systems Auditor
+<h1 align="center">👋 Hi, I'm Marlon David Pérez Almachi</h1>
+
+<p align="center">
+  <b>Information technology engineering student & AI Researcher | IT Systems Auditor</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Cuenca--Ecuador-00FF88?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-9th_Level_IT_Engineering-00E5FF?style=for-the-badge&logo=googlescholar&logoColor=white" />
+</p>
+
+---
+
+---
+<p align="left">
+  <img src="https://img.shields.io/badge/Location-Cuenca--Ecuador-00FF88?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-9th_Level_IT_Engineering-00E5FF?style=for-the-badge&logo=googlescholar&logoColor=white" />
+</p>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-9th_Level_IT_Engineering-00E5FF?style=for-the-badge&logo=googlescholar&logoColor=white" />
